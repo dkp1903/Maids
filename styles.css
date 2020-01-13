@@ -1,5 +1,13 @@
 .header {
 	background-color: black;
-	width: content;
-	color: white;
+    width: content;
+    height: 80px;
+    color: #858DC5;
+    font-size: 40px;
+
+    font-family: "Aguafina Script";
+
+    margin-top: none;
+    margin-bottom: 20px;
+    text-align: center;	
 }
